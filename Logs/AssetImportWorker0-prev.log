@@ -1,0 +1,815 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.13f1 (71691879b7f5) revision 7432472'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Enterprise; OS build 22000.493; Version 2009; 64bit' Language: 'pt' Physical Memory: 32719 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.13f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/_Ramon_Pablo_pasta/_Documentos/Universidade_Positivo/Oddity Enterteiment/Super Huakari/Super Huacari
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55665
+Successfully changed project path to: D:/_Ramon_Pablo_pasta/_Documentos/Universidade_Positivo/Oddity Enterteiment/Super Huakari/Super Huacari
+D:/_Ramon_Pablo_pasta/_Documentos/Universidade_Positivo/Oddity Enterteiment/Super Huakari/Super Huacari
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 63.80 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.13f1 (71691879b7f5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/_Ramon_Pablo_pasta/_Documentos/Universidade_Positivo/Oddity Enterteiment/Super Huakari/Super Huacari/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Vendor:   
+    VRAM:     6052 MB
+    Driver:   30.0.15.1165
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56616
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001229 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 51.99 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.239 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.141749 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.970 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 0.70 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2136 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.8 MB.
+System memory in use after: 85.9 MB.
+
+Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 2540.
+Total: 4.944800 ms (FindLiveObjects: 0.219900 ms CreateObjectMapping: 0.053200 ms MarkObjects: 4.599000 ms  DeleteObjects: 0.071400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Resources/Sounds/AudioEffects.mixer
+  artifactKey: Guid(f6f0450c3c1de9c4e841110d1b3c67f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/AudioEffects.mixer using Guid(f6f0450c3c1de9c4e841110d1b3c67f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb967d58a1e925e16b15a3ce5ce1b042') in 0.109976 seconds 
+  Import took 0.126110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 354.617334 seconds.
+  path: Assets/Resources/Sounds/Sound Manager.prefab
+  artifactKey: Guid(83f8d94c80b424a42931ef87ad9a8f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Sound Manager.prefab using Guid(83f8d94c80b424a42931ef87ad9a8f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd14df29dc2cdaf33559054486172420') in 0.433710 seconds 
+  Import took 0.456038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 63.896635 seconds.
+  path: Assets/Resources/Sounds/Musics
+  artifactKey: Guid(a72513485d1e5964a9662b496b8c474c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Musics using Guid(a72513485d1e5964a9662b496b8c474c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '334a22facde0f231fb516e7f255e9ce2') in 0.024712 seconds 
+  Import took 0.056397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.106700 seconds.
+  path: Assets/Resources/Physics_Material/PersonagemEscorregar.physicsMaterial2D
+  artifactKey: Guid(6fe664f627563bf42856bfe380215934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Physics_Material/PersonagemEscorregar.physicsMaterial2D using Guid(6fe664f627563bf42856bfe380215934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c03233729347f45b53ebeb8b21fa9b1') in 0.013159 seconds 
+  Import took 0.027978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.562532 seconds.
+  path: Assets/Resources/Scripts/PlayerBehaviour.cs
+  artifactKey: Guid(b48fa59062e5c2a4c894ed113750a42c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Scripts/PlayerBehaviour.cs using Guid(b48fa59062e5c2a4c894ed113750a42c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eac0dc3079c5a556b9688f568653212e') in 0.060758 seconds 
+  Import took 0.074754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.949293 seconds.
+  path: Assets/Resources/Scripts/InputManager.cs
+  artifactKey: Guid(a6a91450cce87fa43902f35b048d23cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Scripts/InputManager.cs using Guid(a6a91450cce87fa43902f35b048d23cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dee188436fabf60674448bc79e8d1575') in 0.008487 seconds 
+  Import took 0.025831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 388.671624 seconds.
+  path: Assets/Resources/Scripts/GameController.cs
+  artifactKey: Guid(37d164ae99f758f42a8a7c142fcf6abd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Scripts/GameController.cs using Guid(37d164ae99f758f42a8a7c142fcf6abd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '340eca10edbd31019b8c942dc828580a') in 0.007238 seconds 
+  Import took 0.027754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.851873 seconds.
+  path: Assets/Resources/Scripts/PlayerPhysics.cs
+  artifactKey: Guid(0de32689ecb32414a8b971979f214dad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Scripts/PlayerPhysics.cs using Guid(0de32689ecb32414a8b971979f214dad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2e0c39483c67fca69008bfae9353fce') in 0.007298 seconds 
+  Import took 0.037657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 59.526410 seconds.
+  path: Assets/Resources/Sounds/AudioMenu/MenuButtons/menu_click_select.wav
+  artifactKey: Guid(4a0ce9a5ef308124780794a96a5c305f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/AudioMenu/MenuButtons/menu_click_select.wav using Guid(4a0ce9a5ef308124780794a96a5c305f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f8330ba9b1557653be4c5aedb01cbe9') in 0.070530 seconds 
+  Import took 0.091647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024380 seconds.
+  path: Assets/Resources/Sounds/AudioScripts/ShotEffects
+  artifactKey: Guid(5ac0e3b0705643c49bea4999349873cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/AudioScripts/ShotEffects using Guid(5ac0e3b0705643c49bea4999349873cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '228707626f341c1daa4ee26c2ae7041e') in 0.006567 seconds 
+  Import took 0.022274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012440 seconds.
+  path: Assets/Resources/Menus/MasterLvl.cs
+  artifactKey: Guid(b7f28a8d13b1c5a4d949f0b0f68967ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Menus/MasterLvl.cs using Guid(b7f28a8d13b1c5a4d949f0b0f68967ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd51ee6df3db25d88137073180b1b98ec') in 0.006913 seconds 
+  Import took 0.029507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006401 seconds.
+  path: Assets/Resources/Sounds/Effects/Shot
+  artifactKey: Guid(cba36f2dd0da95c4dbd19a7484bd6039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Shot using Guid(cba36f2dd0da95c4dbd19a7484bd6039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a703ff94d12e9692760b6ea556b57a3e') in 0.006493 seconds 
+  Import took 0.027293 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.069048 seconds.
+  path: Assets/Resources/Sounds/AudioMenu/MenuButtons/menu_selected.wav
+  artifactKey: Guid(fe4fc8028ce409f408f1bc3410f965fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/AudioMenu/MenuButtons/menu_selected.wav using Guid(fe4fc8028ce409f408f1bc3410f965fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff5a8c8309412a68b58fb51ee1aa4683') in 0.010176 seconds 
+  Import took 0.013404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.078404 seconds.
+  path: Assets/Resources/Sounds/Effects/Shot/Neutro/attack_neutral_shoot.wav
+  artifactKey: Guid(ebf885215dc950d49ae6067449898856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Shot/Neutro/attack_neutral_shoot.wav using Guid(ebf885215dc950d49ae6067449898856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3430a693965de3737831b6bfd963f30f') in 0.013553 seconds 
+  Import took 0.017292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.058266 seconds.
+  path: Assets/Resources/Sounds/AudioMenu/MenuButtons
+  artifactKey: Guid(59b594c9b80597b4690d85f58b392843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/AudioMenu/MenuButtons using Guid(59b594c9b80597b4690d85f58b392843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1c4d3f4fb275393c4f28ac777845ff1') in 0.006065 seconds 
+  Import took 0.043371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.150683 seconds.
+  path: Assets/Resources/Sounds/Effects/Shot/Water/water_hitscenery.wav
+  artifactKey: Guid(201e245d6f1e6a94ca5159b282d67f8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Shot/Water/water_hitscenery.wav using Guid(201e245d6f1e6a94ca5159b282d67f8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '686774e249099d3478516abfd1b820fc') in 0.010224 seconds 
+  Import took 0.013279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.169507 seconds.
+  path: Assets/Resources/Sounds/Effects/Shot/Air/air_hitplayer.wav
+  artifactKey: Guid(4fee488354e4ad249befb14165e749c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Shot/Air/air_hitplayer.wav using Guid(4fee488354e4ad249befb14165e749c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b82f69f148d33d3ff935c13cbbda12f8') in 0.010710 seconds 
+  Import took 0.013835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014312 seconds.
+  path: Assets/Resources/Menus/PauseManager.cs
+  artifactKey: Guid(a98fb52f03664584890c326b9a284bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Menus/PauseManager.cs using Guid(a98fb52f03664584890c326b9a284bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0116ad496bc1a8233eb121e31975be8') in 0.005451 seconds 
+  Import took 0.009000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.056076 seconds.
+  path: Assets/Resources/Sounds/AudioScripts/CollectedEffects.cs
+  artifactKey: Guid(c821a2c2bb26e3c46b8d267e9f08bac6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/AudioScripts/CollectedEffects.cs using Guid(c821a2c2bb26e3c46b8d267e9f08bac6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5be59bfc561bf3df7eac29b7779a7097') in 0.006807 seconds 
+  Import took 0.010053 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006186 seconds.
+  path: Assets/Resources/Sounds/Effects/Player
+  artifactKey: Guid(472451cf7491e0145b8fa3e7a0deaee8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Player using Guid(472451cf7491e0145b8fa3e7a0deaee8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97f0a7d996855216082567de405cf929') in 0.006627 seconds 
+  Import took 0.009863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.051412 seconds.
+  path: Assets/Resources/Sounds/Effects/Shot/Neutro/attack_neutral_hitplayer.wav
+  artifactKey: Guid(f24f2cd0466d8704ba02904b7dfbb50e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Shot/Neutro/attack_neutral_hitplayer.wav using Guid(f24f2cd0466d8704ba02904b7dfbb50e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28204447d885f06317e59157178c0cad') in 0.011452 seconds 
+  Import took 0.014838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.446202 seconds.
+  path: Assets/Resources/Sounds/AudioMenu/Credits.wav
+  artifactKey: Guid(f62cd77b86a5ae84d9dfbff87a5d289a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/AudioMenu/Credits.wav using Guid(f62cd77b86a5ae84d9dfbff87a5d289a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05200d071768affe00ec51f75032b5fd') in 0.009695 seconds 
+  Import took 0.012757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017758 seconds.
+  path: Assets/Resources/Sounds/Effects/Player/Jump
+  artifactKey: Guid(3b559edc006ffdf489a67e942af1aae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Player/Jump using Guid(3b559edc006ffdf489a67e942af1aae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b0ca0391e82d8e400194ba8a28b7a5e') in 0.005837 seconds 
+  Import took 0.008949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013205 seconds.
+  path: Assets/Resources/Sounds/AudioScripts/AudioEffects.cs
+  artifactKey: Guid(5d8d0298e4bb28746b752ee804fc8225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/AudioScripts/AudioEffects.cs using Guid(5d8d0298e4bb28746b752ee804fc8225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba7ea9daaa674b5caef710689ccfe5b5') in 0.005360 seconds 
+  Import took 0.008543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006208 seconds.
+  path: Assets/Resources/Sounds/AudioMenu
+  artifactKey: Guid(b4501d0f4c2a73b46ac35570776272e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/AudioMenu using Guid(b4501d0f4c2a73b46ac35570776272e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50e1bda45bfe88715863c6b3cffd6f2a') in 0.005693 seconds 
+  Import took 0.033343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025235 seconds.
+  path: Assets/Resources/Sounds/Effects/Environment/jumppad_audio.wav
+  artifactKey: Guid(5bde8ce9134c3bf41a68502364119a30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Environment/jumppad_audio.wav using Guid(5bde8ce9134c3bf41a68502364119a30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e46546036412ac3d1256ea8149040a9') in 0.028553 seconds 
+  Import took 0.031585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042151 seconds.
+  path: Assets/Resources/Sounds/Effects/Shot/Water/Water_shoot.wav
+  artifactKey: Guid(b0af9fb7c2845814b9126eac4752a9fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Shot/Water/Water_shoot.wav using Guid(b0af9fb7c2845814b9126eac4752a9fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fca898f1d4d2e37448747fbdd75e1ebf') in 0.010446 seconds 
+  Import took 0.013647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.049128 seconds.
+  path: Assets/Resources/Menus/MenuPlayer.cs
+  artifactKey: Guid(a5e6f670efa893c4f801810e4d9bb3b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Menus/MenuPlayer.cs using Guid(a5e6f670efa893c4f801810e4d9bb3b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20396f45d7b946239b0fad2699a18958') in 0.006031 seconds 
+  Import took 0.033006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.069864 seconds.
+  path: Assets/Resources/Sounds/Effects/Player/Aim/P3_aim.wav
+  artifactKey: Guid(c57a62edb9e76ce44ba37f7abf1a583e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Player/Aim/P3_aim.wav using Guid(c57a62edb9e76ce44ba37f7abf1a583e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce05edad4410044b291709f1b196c57b') in 0.009260 seconds 
+  Import took 0.032936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033197 seconds.
+  path: Assets/Resources/Sounds/Effects/Player/Jump/P3_jump.wav
+  artifactKey: Guid(39009cd22f3e20147b996d55675d0e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Player/Jump/P3_jump.wav using Guid(39009cd22f3e20147b996d55675d0e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bdcb1a51eb0e78ae8a63b66212951cc') in 0.009167 seconds 
+  Import took 0.023925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007245 seconds.
+  path: Assets/Resources/Sounds/Effects/Environment
+  artifactKey: Guid(c2496c492eda618429c2aaacf897d12b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Environment using Guid(c2496c492eda618429c2aaacf897d12b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ceceee08b58d5234c26c1439fc5cf44a') in 0.006374 seconds 
+  Import took 0.009370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.059926 seconds.
+  path: Assets/Resources/Sounds/Effects/Shot/Earth/earth_hitplayer.wav
+  artifactKey: Guid(13b829fa59a6600408f050c3b7429872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Shot/Earth/earth_hitplayer.wav using Guid(13b829fa59a6600408f050c3b7429872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3250f2c12d90f8323a04db9aadb1485f') in 0.011511 seconds 
+  Import took 0.015630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.239240 seconds.
+  path: Assets/Resources/Sounds/AudioScripts/SpawnEffects.cs
+  artifactKey: Guid(a8bcf130e45bd084ba4c5ba8dbcefe23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/AudioScripts/SpawnEffects.cs using Guid(a8bcf130e45bd084ba4c5ba8dbcefe23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c2b9c86cfaea26422a8ced9ce3609e0') in 0.005542 seconds 
+  Import took 0.049672 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030854 seconds.
+  path: Assets/Resources/Sounds/AudioScripts/JumpEffects.cs
+  artifactKey: Guid(c07cdfb22f4785044ae9b741f03b0957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/AudioScripts/JumpEffects.cs using Guid(c07cdfb22f4785044ae9b741f03b0957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b644256f344a0ffc817f8fe7fadced00') in 0.005840 seconds 
+  Import took 0.453026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.165200 seconds.
+  path: Assets/Resources/Sounds/AudioMenu/main menu loop.wav
+  artifactKey: Guid(d6ab01cf3af60af4aa0799900c49e773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/AudioMenu/main menu loop.wav using Guid(d6ab01cf3af60af4aa0799900c49e773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd1d939be508a1217b90cbd5bc2776a1') in 0.011076 seconds 
+  Import took 0.014273 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.421651 seconds.
+  path: Assets/Resources/Sounds/Musics/Effects/gongo.wav
+  artifactKey: Guid(39808fb3757c27040b6a56e59cee8b95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Musics/Effects/gongo.wav using Guid(39808fb3757c27040b6a56e59cee8b95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5b5a6a96a862af4072a7f5b91012c74') in 0.051399 seconds 
+  Import took 0.134381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.396087 seconds.
+  path: Assets/Resources/Sounds/Effects/Shot/Fire/Fire_hitscenery.wav
+  artifactKey: Guid(ff80c913c5525ff4c927be202e7129c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Shot/Fire/Fire_hitscenery.wav using Guid(ff80c913c5525ff4c927be202e7129c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00cb709a61445504017f20fdb10c2d67') in 0.009601 seconds 
+  Import took 0.012560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.133688 seconds.
+  path: Assets/Resources/Sounds/Effects/Player/Jump/P1_jump.wav
+  artifactKey: Guid(1cca733a56139d7449ac3c6d14ce05e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Player/Jump/P1_jump.wav using Guid(1cca733a56139d7449ac3c6d14ce05e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c585c7b4ec9076200f05ecc79d870c6c') in 0.010114 seconds 
+  Import took 0.013186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044362 seconds.
+  path: Assets/Resources/Sounds/Effects/Shot/Neutro/attack_neutral_hitscenary.wav
+  artifactKey: Guid(9e2983ff621538146ba9fadb08dd5715) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Shot/Neutro/attack_neutral_hitscenary.wav using Guid(9e2983ff621538146ba9fadb08dd5715) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6617db22b363c7c1c1345af9dad0d274') in 0.009763 seconds 
+  Import took 0.012747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.064563 seconds.
+  path: Assets/Resources/Sounds/Effects/Itens/Colected/Bear_Stone_Pickup.wav
+  artifactKey: Guid(12384958da96afa488ce4a4db9114538) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Itens/Colected/Bear_Stone_Pickup.wav using Guid(12384958da96afa488ce4a4db9114538) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '020bc8e1867d1938b82cb035302a3e0c') in 0.010159 seconds 
+  Import took 0.040568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029062 seconds.
+  path: Assets/Resources/Menus/MenuPrincipal.cs
+  artifactKey: Guid(013c63e168e43a94cab9ffcb8458af5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Menus/MenuPrincipal.cs using Guid(013c63e168e43a94cab9ffcb8458af5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04f2dcdac4c829d08a13d83dce75f96e') in 0.005603 seconds 
+  Import took 0.008539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006151 seconds.
+  path: Assets/Resources/Sounds/Effects/Shot/Neutro
+  artifactKey: Guid(047fc844cf437ee4887fc0e365135116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Shot/Neutro using Guid(047fc844cf437ee4887fc0e365135116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48ede611010e6208368ad0e5ea0a0b51') in 0.005694 seconds 
+  Import took 0.008639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.098587 seconds.
+  path: Assets/Resources/Sounds/AudioMenu/post_game_menu.wav
+  artifactKey: Guid(a60ff257a93ea274983a7e73dc22679f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/AudioMenu/post_game_menu.wav using Guid(a60ff257a93ea274983a7e73dc22679f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba687411cba6136176fdd54ec77b5c95') in 0.038045 seconds 
+  Import took 0.041915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.148372 seconds.
+  path: Assets/Resources/Sounds/Effects/Shot/Fire/fire_shoot.wav
+  artifactKey: Guid(8eb97466b7351ea428d9cae9aa97e107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Shot/Fire/fire_shoot.wav using Guid(8eb97466b7351ea428d9cae9aa97e107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27b43d1dacf1bd3ea0722bcaf9742bab') in 0.010420 seconds 
+  Import took 0.013495 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007516 seconds.
+  path: Assets/Resources/Sounds/Effects/Itens/Colected
+  artifactKey: Guid(32f5fcad601598048a14ef308f902651) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Itens/Colected using Guid(32f5fcad601598048a14ef308f902651) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2696e24b4957b207dab2b90e2e1945e7') in 0.005836 seconds 
+  Import took 0.026288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.043644 seconds.
+  path: Assets/Resources/Sounds/AudioScripts/AudioMusic.cs
+  artifactKey: Guid(ea9afff90cbe8984999baae79ef106ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/AudioScripts/AudioMusic.cs using Guid(ea9afff90cbe8984999baae79ef106ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ed522de386a8b6c14bb8f1cfe1f4ae8') in 0.005103 seconds 
+  Import took 0.036547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.039869 seconds.
+  path: Assets/Resources/Sounds/Effects/Itens/Colected/Eagle_Stone_Pickup.wav
+  artifactKey: Guid(5da40d3c3e389624e8033a3992286858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Itens/Colected/Eagle_Stone_Pickup.wav using Guid(5da40d3c3e389624e8033a3992286858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c166e2723494adacbcbd73416337d39') in 0.009334 seconds 
+  Import took 0.029070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030240 seconds.
+  path: Assets/Resources/Sounds/Effects/Player/Aim/P4_aim.wav
+  artifactKey: Guid(ec594d43825ba5142a0ce92089e22b8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Player/Aim/P4_aim.wav using Guid(ec594d43825ba5142a0ce92089e22b8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8a8aeab925a7f30805c674d1529fe9c') in 0.009355 seconds 
+  Import took 0.044947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.079391 seconds.
+  path: Assets/Resources/Sounds/AudioScripts/TimerEffects.cs
+  artifactKey: Guid(aa9831b6b4b447d4ca333afbb53ce0eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/AudioScripts/TimerEffects.cs using Guid(aa9831b6b4b447d4ca333afbb53ce0eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '465a0f666e87b303df52a8e5cd63f35c') in 0.005463 seconds 
+  Import took 0.008278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.267403 seconds.
+  path: Assets/Resources/Sounds/Musics/Effects/Ui_temporizador_partida.wav
+  artifactKey: Guid(230ebf62cef3c80458764cde07ada51b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Musics/Effects/Ui_temporizador_partida.wav using Guid(230ebf62cef3c80458764cde07ada51b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee329f970f883247d169a46b725591bf') in 0.032876 seconds 
+  Import took 0.035988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014129 seconds.
+  path: Assets/Resources/Menus/PosJogo.cs
+  artifactKey: Guid(c49b1b4417c49c043b5776e572cf9817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Menus/PosJogo.cs using Guid(c49b1b4417c49c043b5776e572cf9817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9394b6edfd4f44af9a9caa452a5d71dd') in 0.005255 seconds 
+  Import took 0.008110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.043549 seconds.
+  path: Assets/Resources/Sounds/AudioScripts/ShotEffects/WaterEffects.cs
+  artifactKey: Guid(daca75883e756e94e87d0f042ca04168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/AudioScripts/ShotEffects/WaterEffects.cs using Guid(daca75883e756e94e87d0f042ca04168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8e1eb0bfdd72a72044d1ac145034dab') in 0.005627 seconds 
+  Import took 0.008604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035332 seconds.
+  path: Assets/Resources/Sounds/Effects/Player/Aim/P2_aim.wav
+  artifactKey: Guid(19d21d0dc1242a6499b7e03cdf91a401) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Player/Aim/P2_aim.wav using Guid(19d21d0dc1242a6499b7e03cdf91a401) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3444177fe1b62dfc588f259840e0c14e') in 0.009480 seconds 
+  Import took 0.012474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007069 seconds.
+  path: Assets/Resources/Sounds/Effects/Shot/Earth
+  artifactKey: Guid(5cfca7fa98da573479208c74ffea8d2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Shot/Earth using Guid(5cfca7fa98da573479208c74ffea8d2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ca8924a790f95ddc57132b23b9d4371') in 0.005537 seconds 
+  Import took 0.008443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.037901 seconds.
+  path: Assets/Resources/Sounds/Effects/Player/Jump/P4_jump.wav
+  artifactKey: Guid(45fdd36c724365245a443bd108fc915a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Player/Jump/P4_jump.wav using Guid(45fdd36c724365245a443bd108fc915a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a875703c3cc41ef8e4cf8b0cb6dba6e3') in 0.009598 seconds 
+  Import took 0.012590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.095126 seconds.
+  path: Assets/Resources/_Prefabs/GameController.prefab
+  artifactKey: Guid(b96566bb0dde3d64cb16a5c30b50d7b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/_Prefabs/GameController.prefab using Guid(b96566bb0dde3d64cb16a5c30b50d7b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46e2cc64b1c5a8cb0cd68c3ece4aaa58') in 0.077394 seconds 
+  Import took 0.080721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.046456 seconds.
+  path: Assets/Resources/Sounds/AudioScripts/AimEffects.cs
+  artifactKey: Guid(034432f392aaec041bd3a135201318e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/AudioScripts/AimEffects.cs using Guid(034432f392aaec041bd3a135201318e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86639f078f4a66fec32269bbfa5e3e9a') in 0.005843 seconds 
+  Import took 0.029085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.092217 seconds.
+  path: Assets/Resources/Sounds/AudioMenu/MenuButtons/menu_click_on.wav
+  artifactKey: Guid(863d5306f079e614b936deed6e5ec96b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/AudioMenu/MenuButtons/menu_click_on.wav using Guid(863d5306f079e614b936deed6e5ec96b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8057add4dde55a469b28a3632b8c3574') in 0.010566 seconds 
+  Import took 0.013560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007411 seconds.
+  path: Assets/Resources/Sounds/AudioScripts
+  artifactKey: Guid(4464c513dafb2f345946bbc26fec8477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/AudioScripts using Guid(4464c513dafb2f345946bbc26fec8477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2a522c27e302dd6d3c8f3db010f20f7') in 0.005842 seconds 
+  Import took 0.008790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013592 seconds.
+  path: Assets/Resources/Sounds/AudioScripts/ClickSound.cs
+  artifactKey: Guid(5c6769c496e05ff4189575fa446f8034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/AudioScripts/ClickSound.cs using Guid(5c6769c496e05ff4189575fa446f8034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0954533d0c72db84ba029af0bfc1f38b') in 0.005656 seconds 
+  Import took 0.033855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.041694 seconds.
+  path: Assets/Resources/Sounds/Effects/Itens/Colected/Shark_Stone_Pickup.wav
+  artifactKey: Guid(8c6771f61af2e3c4b93bc57dc89c6aa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Itens/Colected/Shark_Stone_Pickup.wav using Guid(8c6771f61af2e3c4b93bc57dc89c6aa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a40972eda5fcf7fc1d111e8e969c4bbd') in 0.009869 seconds 
+  Import took 0.030929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007492 seconds.
+  path: Assets/Resources/Sounds/Effects/Shot/Air
+  artifactKey: Guid(2532bb6ff5d998e49b70b7c0b70b268c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Shot/Air using Guid(2532bb6ff5d998e49b70b7c0b70b268c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bede204034eaf6396a2d89142387906c') in 0.005932 seconds 
+  Import took 0.008879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.057036 seconds.
+  path: Assets/Resources/Sounds/Effects/Player/Aim/P1_aim.wav
+  artifactKey: Guid(6965ec6ff1b8e614297c3cbfbb79d7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Player/Aim/P1_aim.wav using Guid(6965ec6ff1b8e614297c3cbfbb79d7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db3bf1e469d313c3db0c83d161123386') in 0.010009 seconds 
+  Import took 0.024099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.460951 seconds.
+  path: Assets/Resources/Sounds/Musics/Effects/Birds&&Cricket.wav
+  artifactKey: Guid(f23fc9737d53bf14ba6f8d465a212ae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Musics/Effects/Birds&&Cricket.wav using Guid(f23fc9737d53bf14ba6f8d465a212ae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2522145b34ce5836c0ea794f8d5c6edc') in 0.054272 seconds 
+  Import took 0.057226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.089084 seconds.
+  path: Assets/Resources/Sounds/AudioScripts/ShotEffects/NeutroEffects.cs
+  artifactKey: Guid(55d34c4ac51fdfa4cba838beb9b28c0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/AudioScripts/ShotEffects/NeutroEffects.cs using Guid(55d34c4ac51fdfa4cba838beb9b28c0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e9ffe523f01cb227f8831adcb34ef2e') in 0.005883 seconds 
+  Import took 0.023190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.077193 seconds.
+  path: Assets/Resources/Sounds/AudioScripts/ShotEffects/EarthEffects.cs
+  artifactKey: Guid(bf9e9c9de21d6564e9dd03e462bc0903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/AudioScripts/ShotEffects/EarthEffects.cs using Guid(bf9e9c9de21d6564e9dd03e462bc0903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26b9b7f15861f577d64f2e23935bb41e') in 0.005486 seconds 
+  Import took 0.008416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.047398 seconds.
+  path: Assets/Resources/Sounds/AudioScripts/ShotEffects/FireEffects.cs
+  artifactKey: Guid(6f601375f2a348849b72d5c2893b815c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/AudioScripts/ShotEffects/FireEffects.cs using Guid(6f601375f2a348849b72d5c2893b815c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48ed42fed2278c95150d8d3879529f35') in 0.005720 seconds 
+  Import took 0.008639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006082 seconds.
+  path: Assets/Resources/Sounds/Musics/Effects
+  artifactKey: Guid(eabd4b7e920b1b4478fcab817ce35f1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Musics/Effects using Guid(eabd4b7e920b1b4478fcab817ce35f1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3c6150a9eb1a2108fb9104d7594f184') in 0.005640 seconds 
+  Import took 0.029673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.075348 seconds.
+  path: Assets/Resources/Sounds/Effects/Shot/Earth/earth_shoot.wav
+  artifactKey: Guid(cf3728e2a75c66441a98f588edbb9369) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Shot/Earth/earth_shoot.wav using Guid(cf3728e2a75c66441a98f588edbb9369) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '659a6cda37587e24e4c6c313f3aef6ac') in 0.011039 seconds 
+  Import took 0.014200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.089040 seconds.
+  path: Assets/Resources/Sounds/Effects/Shot/Air/air_shoot.wav
+  artifactKey: Guid(2bda8ccf2451ea04f861d0fa6b83cb4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Shot/Air/air_shoot.wav using Guid(2bda8ccf2451ea04f861d0fa6b83cb4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '731990d983eed2e2fb2e22d99055bc35') in 0.009459 seconds 
+  Import took 0.012382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006893 seconds.
+  path: Assets/Resources/Sounds/Effects
+  artifactKey: Guid(cdb0cef8df62b734eb0beb6b546de702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects using Guid(cdb0cef8df62b734eb0beb6b546de702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5de992267b0dac3bcd9565e05251c0da') in 0.002259 seconds 
+  Import took 0.013624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040892 seconds.
+  path: Assets/Resources/Sounds
+  artifactKey: Guid(7409469699e49ed418207d9dbec2b55b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds using Guid(7409469699e49ed418207d9dbec2b55b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a20965dd93a7109dafe205b74c6dacbd') in 0.005668 seconds 
+  Import took 0.036401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.138837 seconds.
+  path: Assets/Resources/Sounds/AudioMenu/MenuButtons/menu_avançar.wav
+  artifactKey: Guid(ac5442d30b3e3ab4a9c7fe9ce9f3f016) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/AudioMenu/MenuButtons/menu_avançar.wav using Guid(ac5442d30b3e3ab4a9c7fe9ce9f3f016) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd776c718da07955a531200e22b245a66') in 0.009412 seconds 
+  Import took 0.030117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.111176 seconds.
+  path: Assets/Resources/Sounds/Effects/Itens/Colected/Fox_Stone_Pickup.wav
+  artifactKey: Guid(e76e52638c2c13f41a842ecd0fc2c823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Itens/Colected/Fox_Stone_Pickup.wav using Guid(e76e52638c2c13f41a842ecd0fc2c823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0bf1b62a267d5e5267d5a3df0a49832') in 0.009541 seconds 
+  Import took 0.012914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010424 seconds.
+  path: Assets/Resources/Sounds/Effects/Player/Aim
+  artifactKey: Guid(faee6e83f21e2c34c88bfc25108a0c58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Player/Aim using Guid(faee6e83f21e2c34c88bfc25108a0c58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d0803d45087cba78e5c4d6f4a4cb58a') in 0.005695 seconds 
+  Import took 0.008570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035112 seconds.
+  path: Assets/Resources/Sounds/AudioMenu/SoundManegerMenu.prefab
+  artifactKey: Guid(ac26ba3a193049f489da329dd53323d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/AudioMenu/SoundManegerMenu.prefab using Guid(ac26ba3a193049f489da329dd53323d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9bcdb7128818e7cbb4cca4141e76fc2') in 0.007798 seconds 
+  Import took 0.059048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005905 seconds.
+  path: Assets/Resources/Sounds/Effects/Itens
+  artifactKey: Guid(8ae40606623042641bc0e7d140693195) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Itens using Guid(8ae40606623042641bc0e7d140693195) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ca642034d0f1cfb6df217ee5b778629') in 0.005871 seconds 
+  Import took 0.008918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.055681 seconds.
+  path: Assets/Resources/Sounds/AudioScripts/ShotEffects/AirEffects.cs
+  artifactKey: Guid(18ca13c5bc8a52f4ca4622eb7d693870) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/AudioScripts/ShotEffects/AirEffects.cs using Guid(18ca13c5bc8a52f4ca4622eb7d693870) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d54ea2be924e97c0b7b06deade790ab') in 0.006347 seconds 
+  Import took 0.050449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.055824 seconds.
+  path: Assets/Resources/Sounds/Effects/Shot/Air/air_hitscenary.wav
+  artifactKey: Guid(c3fb4bfc3ab31e848928bda2d19e6bad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Shot/Air/air_hitscenary.wav using Guid(c3fb4bfc3ab31e848928bda2d19e6bad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9ae86c2dd6e1db639205f2fcc241fc5') in 0.009725 seconds 
+  Import took 0.012687 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.021508 seconds.
+  path: Assets/Resources/Sounds/AudioMenu/MenuButtons/menu_click_off.wav
+  artifactKey: Guid(620414e9e2dfec849931f31480d5ba20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/AudioMenu/MenuButtons/menu_click_off.wav using Guid(620414e9e2dfec849931f31480d5ba20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e353547ee160f7c4a9d6fe19404c7dd3') in 0.009525 seconds 
+  Import took 0.077075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.208747 seconds.
+  path: Assets/Resources/Sounds/Effects/Itens/stone_spawn.wav
+  artifactKey: Guid(0d281f62015e5194c9a0c8325b759e39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Itens/stone_spawn.wav using Guid(0d281f62015e5194c9a0c8325b759e39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf2196ebd6c1cb3a442740ee72ed73c5') in 0.109631 seconds 
+  Import took 0.112633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.237755 seconds.
+  path: Assets/Resources/Sounds/Effects/Shot/Fire/fire_hitplayer.wav
+  artifactKey: Guid(c1181558584b367468736eae7ade565c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Shot/Fire/fire_hitplayer.wav using Guid(c1181558584b367468736eae7ade565c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6e326a65822eb0f7959d073f377a02a') in 0.009985 seconds 
+  Import took 0.058986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.191882 seconds.
+  path: Assets/Resources/Sounds/Effects/Shot/Earth/earth_hitscenery.wav
+  artifactKey: Guid(324c20eb8f8152a4a87fe16c0a80ab5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Shot/Earth/earth_hitscenery.wav using Guid(324c20eb8f8152a4a87fe16c0a80ab5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e796a659506ed1f5369dd45352ece464') in 0.029303 seconds 
+  Import took 0.100562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.058743 seconds.
+  path: Assets/Resources/Sounds/Effects/Player/Jump/P2_jump.wav
+  artifactKey: Guid(053e91a6b0caf8e4a9505208d0acb187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Player/Jump/P2_jump.wav using Guid(053e91a6b0caf8e4a9505208d0acb187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8603f3249f6111bf8e59472e3722f3c') in 0.026158 seconds 
+  Import took 0.029256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.376640 seconds.
+  path: Assets/Resources/Sounds/Musics/CombatLoop.wav
+  artifactKey: Guid(ce3d5954b95948a4693aac372307bd84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Musics/CombatLoop.wav using Guid(ce3d5954b95948a4693aac372307bd84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35dc54af72c35600cf958aece1ed3301') in 0.057638 seconds 
+  Import took 0.074524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010584 seconds.
+  path: Assets/Resources/Sounds/Effects/Shot/Water
+  artifactKey: Guid(7d741925aa18842479cd2178cd33c308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Shot/Water using Guid(7d741925aa18842479cd2178cd33c308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80064305c7da8517a4e9789ae9bf707f') in 0.005166 seconds 
+  Import took 0.007933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.084701 seconds.
+  path: Assets/Resources/Sounds/AudioMenu/MenuButtons/menu_voltar.wav
+  artifactKey: Guid(06678eaef3d4087439b17c7bf9bf455c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/AudioMenu/MenuButtons/menu_voltar.wav using Guid(06678eaef3d4087439b17c7bf9bf455c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '162fb7c24f555fce9273b7b8aad245ee') in 0.009911 seconds 
+  Import took 0.012967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014132 seconds.
+  path: Assets/Resources/Sounds/AudioScripts/JumppadEffects.cs
+  artifactKey: Guid(b8a00a1a8ad334f44b0d7bebce7b489f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/AudioScripts/JumppadEffects.cs using Guid(b8a00a1a8ad334f44b0d7bebce7b489f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '192a01247565e06ad0bbe5cf32b1d48c') in 0.005853 seconds 
+  Import took 0.028743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.103393 seconds.
+  path: Assets/Resources/Sounds/AudioMenu/post_game_vitcory_drum.wav
+  artifactKey: Guid(7bd6c01a77b4cb84181b8af194565386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/AudioMenu/post_game_vitcory_drum.wav using Guid(7bd6c01a77b4cb84181b8af194565386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e072e60ec6d7483570dfeafd78cece0') in 0.022981 seconds 
+  Import took 0.026156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012929 seconds.
+  path: Assets/Resources/Sounds/Effects/Shot/Fire
+  artifactKey: Guid(bdc527fd7b9ecfd4483b335644fc6774) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Shot/Fire using Guid(bdc527fd7b9ecfd4483b335644fc6774) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5dbc1e23ba21c71b5c6a794120f4987') in 0.005869 seconds 
+  Import took 0.031312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034319 seconds.
+  path: Assets/Resources/Sounds/Musics/Effects/Jumppad.wav
+  artifactKey: Guid(18293a265e47de54f9a8472cfda5425d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Musics/Effects/Jumppad.wav using Guid(18293a265e47de54f9a8472cfda5425d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adefc4ea24b2ea3a8f13ab70130e315a') in 0.009950 seconds 
+  Import took 0.012963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.213211 seconds.
+  path: Assets/Resources/Sounds/Effects/Shot/Water/water_hitplayer.wav
+  artifactKey: Guid(3db7460fa244098499bf5b60a47111f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Sounds/Effects/Shot/Water/water_hitplayer.wav using Guid(3db7460fa244098499bf5b60a47111f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74aca84bd817053e0b925f0634d131c2') in 0.009914 seconds 
+  Import took 0.012857 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

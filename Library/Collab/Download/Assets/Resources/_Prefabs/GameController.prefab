@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1988652806791058}
+  m_IsPrefabParent: 1
+--- !u!1 &1988652806791058
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4730819564970504}
+  - component: {fileID: 114296095010294998}
+  m_Layer: 0
+  m_Name: GameController
+  m_TagString: Untagged
+  m_Icon: {fileID: 2974397684917235467, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4730819564970504
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1988652806791058}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 4.3, z: 0.6681263}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114296095010294998
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1988652806791058}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37d164ae99f758f42a8a7c142fcf6abd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PM: {fileID: 0}
+  stones:
+  - {fileID: 1160362686960712, guid: f87e4b44a51d0ae478907490a987574e, type: 2}
+  - {fileID: 1580550887011086, guid: 85c8e21f373235249871f6a001500f49, type: 2}
+  - {fileID: 1198906398825570, guid: 6564918929f97bb47ae74150e8132f30, type: 2}
+  - {fileID: 1953187594104232, guid: 370fc5a4d15e95d4286f5a040ec1052b, type: 2}
+  spawnPoints:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  countDown: 0.1
+  danoBase: 5
+  modificadoresDeDanoLista:
+  - 1
+  - 2
+  - 1
+  - 0.5
+  - 2
+  - 0.5
+  - 1
+  - 2
+  - 1
+  - 2
+  - 1
+  - 0.5
+  - 1
+  - 2
+  - 2
+  - 2
+  - 1
+  - 0.5
+  - 1
+  - 2
+  - 0.5
+  - 0.5
+  - 0.5
+  - 0.5
+  - 1
+  playersLife:
+  - 100
+  - 100
+  - 100
+  - 100
+  temporizador: 120
+  timertext: {fileID: 0}

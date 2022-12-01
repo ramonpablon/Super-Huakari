@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: b48fa59062e5c2a4c894ed113750a42c
+timeCreated: 1510634086
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - normalBullet: {fileID: 1067398520830804, guid: 6baf2f8fb79e0064d85215f8191f3ca1,
+      type: 2}
+  - airBullet: {fileID: 1866619759342680, guid: 08dda4e39b2326645a13910fd1a2731a,
+      type: 2}
+  - earthBullet: {fileID: 1820214275397292, guid: e6476c1dfb94d9442b54927796baf19d,
+      type: 2}
+  - waterBullet: {fileID: 1630272503481972, guid: 75427126792d46a4e85ee88dec59b8a7,
+      type: 2}
+  - fireBullet: {fileID: 1502086344436374, guid: 698f118ff8252b944b21951d4d6f9956,
+      type: 2}
+  - aimPoint: {instanceID: 0}
+  - shotSpawner: {instanceID: 0}
+  - gameController: {fileID: 114296095010294998, guid: b96566bb0dde3d64cb16a5c30b50d7b0,
+      type: 2}
+  - lifeController: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
